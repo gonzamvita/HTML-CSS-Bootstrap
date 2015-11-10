@@ -1,0 +1,57 @@
+.row.header {
+  height: 90px;
+}
+
+.row.slider {
+  height: 550px;
+  background-color: grey;
+}
+
+.row.fixed-slider {
+  height: 314px;
+  background-color: #ed564b;
+}
+
+.row.content {
+  height: 1143px;
+  background-color: #eee9e9;
+}
+
+.section-no-desc {
+  height: 364px;
+}
+
+.content-title {
+  height: 124px;
+}
+
+.row.bottom {
+  height: 351px;
+  background-color: #3b3b3b;
+}
+
+.row.footer {
+  height: 78px;
+  background-color: #292929;
+}
+
+.section-images {
+  width: 270px;
+  height: 180px;
+}
+
+.row.bottom p {
+  color: white;
+}
+
+.row.footer p {
+  color: white;
+}
+
+.row.bottom h3 {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}

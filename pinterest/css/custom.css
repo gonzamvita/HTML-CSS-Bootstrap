@@ -1,0 +1,64 @@
+
+.row.header {
+  padding: 10px;
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.22);
+}
+
+.post-wrapper {
+  margin-top: 20px;
+  border-radius: 6px;
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,0.22);
+}
+
+.post-wrapper img {
+  width: 100%;
+  height: auto;
+  position: relative;
+  border-radius: 6px 6px 0px 0px;
+}
+
+.description {
+  position: relative;
+  border-bottom: 1px solid black;
+}
+
+.description p {
+  margin: 10px 16px;
+}
+
+.credit {
+  position: relative;
+}
+
+.post-wrapper p {
+  font-size: 11px;
+  font-family: 'Helvetica Neue', Helvetica, 'Hiragino Kaku Gothic Pro', arial, sans-serif;
+}
+
+.category .userimage {
+  float: left;
+}
+
+.userimage {
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.credit {
+  width: 70%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.userimage, .credit {
+  margin-top: 10px;
+}
+
+.userimage img{
+  width: 100%;
+  height: auto;
+  position: relative;
+  border-radius: 30%;
+  padding: 5px;
+}
